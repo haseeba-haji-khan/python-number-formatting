@@ -1,6 +1,6 @@
 # python-number-formatting
 ## three types of number formating
-1* built-in function format()
+1 * built-in function format()
 2* string method
 3* % formatting expression
 ## Examples
